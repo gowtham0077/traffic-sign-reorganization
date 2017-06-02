@@ -1,7 +1,7 @@
 A small step using TensorFlow on Traffic Sign Detection and Classification
 
 
-Currently only stop signs and pedestrian crossing signs are detected. Example detection images are below.
+The stop signs and pedestrian crossing signs are detected. The step to is given below.
 
 ## Dependencies of this program
 * Python 3.5+ or Anaconda
