@@ -24,10 +24,10 @@ so install scikt-learn (pip-install-u scikt-learn) or (conda install scikt-learn
 * Cv2 error
 So install Cv2 (conda install cv2) it will again pop up error so "IMPORTANT NOTE: Install Opencv" before intalling Cv2
 
-*Matplot.lib error
+* Matplot.lib error
 Intall matplot library (conda install matplot.lib)
 
-*moviepy error(major error consumes time to fix)
+* moviepy error(major error consumes time to fix)
 
 Initally (install moviepy) by conda "pip install -i https://pypi.anaconda.org/pypi/simple moviepy "
  
